@@ -70,7 +70,30 @@ crop census system
 ## 🛠️ Technologies  
 - **Backend**: Python (scikit-learn, pandas, numpy)  
 - **Frontend**: HTML, CSS, Bootstrap 4, JavaScript ,php(only connectivity of data base and extract it) 
-- **Machine Learning Models**: Classification and regression algorithms for prediction tasks  
+- **Machine Learning Models**: Classification and regression algorithms for prediction tasks
+
+## 🧪 How to Use Each Feature
+
+* **Crop Prediction**
+  Enter: `State`, `District`, `Season`
+  ➡️ Get the most suitable crop to grow.
+
+* **Crop Recommendation**
+  Enter: `N`, `P`, `K`, `Temperature`, `Humidity`, `pH`, `Rainfall`
+  ➡️ Get crop recommendations for your farm.
+
+* **Fertilizer Recommendation**
+  Enter: `Temperature`, `Humidity`, `Soil Moisture`, `Soil Type`, `Crop Type`, `Nitrogen`, `Phosphorous`, `Potassium`
+  ➡️ Get a fertilizer suggestion.
+
+* **Rainfall Prediction**
+  Enter: `Region (Subdivision)` and `Year`
+  ➡️ See rainfall prediction.
+
+* **Yield Prediction**
+  Enter: `State`, `District`, `Year`, `Crop`, `Season`, `Area`, `Production`
+  ➡️ Predict expected yield.
+
 
 ## 👥 Contributors  
 - **Suman P**  
